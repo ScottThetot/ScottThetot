@@ -35,7 +35,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It took me a while to actually figure out the adding items to the list then populating the recycler view. Most of my time was spent looking online for an answer. I finally found the answer when my teacher did a share screen with me and explained to me what happened.
 
 ## License
 
