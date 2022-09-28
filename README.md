@@ -34,8 +34,7 @@ Here's a walkthrough of implemented user stories:
 <a href="https://imgur.com/KRAi5hz"><img src="https://i.imgur.com/KRAi5hz.gif" title="source: imgur.com" /></a>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-[ScreenToGif](https://www.screentogif.com/) 
+GIF created with [ScreenToGif](https://www.screentogif.com/) 
 
 ## Notes
 
